@@ -1,0 +1,32 @@
+
+.gridContainer {
+	margin-left: auto;
+	margin-right: auto;
+	width: 87.2083%;
+	padding-left: 1.8958%;
+	padding-right: 1.8958%;
+}
+#Header {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+	margin-bottom: 10px;
+}
+
+#gallery1 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+	margin-bottom: 10px;
+}
+#gallery2 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
