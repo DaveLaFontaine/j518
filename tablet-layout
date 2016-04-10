@@ -1,0 +1,28 @@
+.gridContainer {
+	width: 91.0625%;
+	padding-left: 0.9687%;
+	padding-right: 0.9687%;
+}
+#Header {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#gallery1 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+	margin-bottom: 10px;
+}
+#gallery2 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+}
