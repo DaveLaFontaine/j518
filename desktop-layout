@@ -1,0 +1,31 @@
+@media only screen and (min-width: 769px) {
+.gridContainer {
+	width: 88.75%;
+	max-width: 1232px;
+	padding-left: 0.625%;
+	padding-right: 0.625%;
+	margin: auto;
+}
+#Header {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#gallery1 {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 32.3943%;
+	display: block;
+	margin-bottom: 10px;
+}
+#gallery2 {
+	clear: none;
+	float: left;
+	margin-left: 1.4084%;
+	width: 32.3943%;
+	display: block;
+}
+}
